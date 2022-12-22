@@ -1,0 +1,213 @@
+Anguilla||Digicel||FLOW
+Antigua and Barbuda||Digicel||FLOW||APUA
+Argentina||Claro||Movistar||Personal||Tuenti||Nuestro
+Aruba||Digicel||MIO||SetarNV
+Bahamas||BTC||Aliv
+Barbados||FLOW||Digicel
+Belize||Digi||Smart
+Bermuda||One||Digicel
+Bolivia||Entel||Tigo||Viva
+Bonaire, Sint Eustatius and Saba||Digicel||FLOW
+Brazil||Vivo||Claro||TIM||Oi||Algar Telecom||Surf||SKY||Sercomtel||Datora||Cinco||Americanet||Correios Celular||Geek Celular||ARQIA||MAGA+||Eseye||Gospelcel||CITY+||Paraisópolis Celular||INTERCEL||Veek||Uni global||fluke||INFINITI||Cartão de TODOS||Conlife Telecom||Vestcasa Celular
+British Virgin Islands||CCT||FLOW||Digicel
+Canada||Rogers||Telus||Bell||Freedom Mobile||Vidéotron||SaskTel||TNW Wireless
+Cayman Islands||FLOW Cayman||Digicel
+Chile||Entel||Movistar||Claro||WOM||VTR Móvil||Virgin Mobile||Simple||GTD Móvil||Netline
+Colombia||Claro||Movistar||Tigo||WOM||Virgin Mobile||Móvil Éxito||ETB||Flash Móvil||Suma Móvil
+Costa Rica||Kölbi||Liberty||Claro||Tuyo Móvil||Fullmóvil
+Cuba||Cubacel
+Curacao||Digicel||FLOW
+Dominica||Digicel||FLOW
+Dominican Republic||Claro||altice||Viva
+Ecuador||Claro||Movistar||Cnt||Tuenti
+El Salvador||Tigo||Claro||Movistar||Digicel||RED
+Falkland Islands||Sure
+Greenland||tusass
+Grenada||FLOW||Digicel
+Guadeloupe||Orange Caraïbe||Digicel||SFR Caraïbe
+Guatemala||Tigo||Claro
+Guyana||Digicel||gtt
+Haiti||Digicel||NATCOM
+Honduras||Tigo||Claro||HONDUTEL
+Jamaica||Digicel||FLOW||Caricel
+Mexico||Telcel||Movistar||AT&T Mexico||Red Compartida||Virgin Mobile||QBO Cel||weex||Cierto||Maz Tiempo||Telcel||Flash Mobile
+Montserrat||FLOW||Digicel
+Nicaragua||Claro||Tigo
+Panama||+móvil||Tigo||Claro||Digicel
+Paraguay||Tigo||Personal||Claro||VOX
+Peru||Movistar||Claro||Entel||Bitel||Cuy Móvil
+Saint Kitts and Nevis||FLOW||Digicel
+Saint Lucia||FLOW||Digicel
+Saint Vincent and the Grenadines||FLOW||Digicel
+Suriname||Telesur||Digicel
+Trinidad and Tobago||Digicel||bmobile
+United States of America||Verizon||T-Mobile US||AT&T Mobility||Dish Wireless||U.S. Cellular
+Uruguay||Antel||Movistar||Claro
+Venezuela||Movilnet||Movistar||Digitel GSM
+Afghanistan||MTN||Roshan||Etisalat||Afghan Wireless||Salaam
+American Samoa||Blue Sky Communications||American Samoa Telecommunications Authority
+Australia||Telstra||Optus||Vodafone
+Bangladesh||Grameenphone||Robi||Banglalink||Teletalk
+Bhutan||B-Mobile||TashiCell
+Brunei||Datastream Technology Sdn Bhd||Progresif Cellular Sdn Bhd
+Cambodia||Metfone||Smart||Cellcard
+China||China Mobile||China Telecom||China Unicom
+Cook Islands||Vodafone
+Fiji||Vodafone||Digicel
+French Polynesia||VINI||Vodafone||VITI
+Guam||IT&E and Iconnect||Docomo Pacific||GTA
+Hongkong||CMHK||HKT||3 Hong Kong||SmarTone
+India||Jio||Airtel||Vi||BSNL
+Indonesia||Telkomsel||XL Axiata||Indosat Ooredoo Hutchison||Smartfren||by.U||MPWR||Live.On||Power Up
+Japan||NTT Docomo||au||SoftBank Corp.||Rakuten Mobile||Disney Mobile||b-mobile||IIJmio
+Kazakhstan||Beeline||Kcell||Tele2 Kazakhstan
+Kyrgyzstan||MegaCom||Beeline||Fonex||O!||Katel||Nexi||Sapat Mobile
+Laos||Unitel||LaoTelecom||TPLUS||ETL
+Macao||CTM||3||China Telecom||SmarTone
+Malaysia||Maxis||Digi||Celcom||U Mobile||Yes 4G||ALTEL||Unifi Mobile||Redtone||Digital Nasional Berhad||XOX||TuneTalk||redONE||Merchantrade||SpeakOut||MY Evolution||Telin Malaysia||mCalls
+Maldives||Dhiraagu||Ooredoo Maldives
+Micronesia||FSM Telecom
+Mongolia||Mobicom||Unitel||Skytel||G-Mobile
+Myanmar||MPT||Telenor||Ooredoo||Mytel
+Nepal||Ncell||Nepal Telecom||Smart Telecom
+New Caledonia||Mobilis
+New Zealand||Vodafone||Spark||2degrees||Compass Mobile||Orcon Mobile||Slingshot Mobile||Skinny||Warehouse Mobile
+Niue||Telecom Niue
+North Korea||Koryolink
+Pakistan||Jazz||Telenor Pakistan||Zong||Ufone||SCOM
+Palau||PNCC
+Papua New Guinea||Digicel||BMobile||Telikom PNG
+Philippines||Globe Telecom||Smart Communications||Dito Telecommunity||TNT||TM||Cherry Prepaid||GOMO
+Samoa||Vodafone Samoa||Digicel
+Singapore||Singtel Mobile||StarHub||M1||SIMBA||GRID Communications||Circles.Life||Zero1||MyRepublic||redONE||VIVIFI||Geenet Mobile||China Mobile||ZYM||M1||Gorilla Mobile
+Solomon Islands||Our Telekom
+South Korea||SK Telecom||KT||LG U+
+Sri Lanka||Dialog||SLTMobitel||Hutch||Airtel
+Taiwan||Chunghwa Telecom||Taiwan Mobile||Far EasTone||T STAR||GT 亞太電信||Circles.Life||Ibon Mobile
+Tajikistan||Tcell||Babilon-Mobile||ZET Mobile||MegaFon
+Thailand||AIS||TrueMove H||Dtac||my by NT||NT Mobile||IEC3G Buzzme||i-Kool 3G||MyWorld 3G||Penguin||OPEN SIM i-mobile||imobile-3GX||168||Mojo 3G||Tune Talk||Feels||AJ SIM||Redone
+East Timor||Telemor||Timor Telecom||Telkomcel
+Tonga||Digicel||TCC
+Turkmenistan||TM CELL||AȘTU
+Uzbekistan||UCell||Beeline||Mobi.UZ||Uzmobile||Perfectum
+Vanuatu||Telecom Vanuatu||Digicel||AIL||WanTok
+Vietnam||Viettel Mobile||MobiFone||Vinaphone||Vietnamobile||Gmobile
+Albania||Vodafone||One Telecommunications||ALBtelecom Mobile
+Andorra||Andorra Telecom
+Armenia||Viva-MTS||Telecom Armenia||Ucom
+Austria||Magenta Telekom||A1||Drei
+Azerbaijan||Azercell||Bakcell||Nar||Nakhtel
+Belarus||MTS||A1||Life
+Belgium||Proximus||Orange||Base
+Bosnia and Herzegovina||BH Telecom||m:tel||HT Eronet
+Bulgaria||A1||Yettel||Vivacom
+Croatia||Hrvatski Telekom||A1||Telemach
+Cyprus||Epic||Cytamobile-Vodafone||PrimeTel||Kuzey Kıbrıs Turkcell||Telsim Vodafone
+Czech Republic||T-Mobile||O2||Vodafone
+Denmark||TDC||Telenor||Telia||3
+Estonia||Telia||Elisa||Tele2
+Faroe Islands||Føroya Tele||Hey||Tosa
+Finland||Elisa||Telia||DNA||Ålcom
+France||Orange||SFR||Bouygues Telecom||Free Mobile
+Georgia||Magticom||Silknet||Beeline
+Germany||Telekom||O2||Vodafone
+Gibraltar||Gibtelecom
+Greece||Cosmote||Vodafone||Wind
+Hungary||Telekom||Yettel||Vodafone||Digi
+Iceland||Síminn||Nova||Vodafone
+Ireland||Three||Vodafone||eir
+Italy||Wind Tre||TIM||Vodafone||Iliad||Fastweb
+Kosovo||Vala||Ipko||mts
+Latvia||LMT||Tele2||Bite||Triatel
+Liechtenstein||FL1||7acht||Swisscom FL
+Lithuania||Tele2||Telia||Bite||Mezon
+Luxembourg||Orange||Tango||POST||Luxembourg Online
+Malta||Epic||GO||Melita
+Moldova||Orange||Moldcell||Moldtelecom||Interdnestrcom
+Monaco||Monaco Telecom
+Montenegro||Telekom||m:tel||One
+Netherlands||T-Mobile||KPN||Vodafone
+Macedonia||Telekom||A1
+Norway||Telenor||Telia||Ice
+Poland||Orange||Play||Plus||T-Mobile
+Portugal||MEO||NOS||Vodafone
+Romania||Orange||Vodafone||Digi||Telekom
+Russia||MTS||MegaFon||Beeline||Tele2 Russia
+San Marino||Telefonia Mobile Sammarinese
+Serbia||mts||Yettel||A1
+Slovakia||Orange||Telekom||O2||4ka
+Slovenia||Telekom Slovenije||A1||Telemach||T-2
+Spain||Movistar||Orange||Vodafone||Yoigo
+Sweden||Telia||Tele2||Telenor||Tre
+Switzerland||Swisscom||Sunrise||Salt
+Turkey||Turkcell||Vodafone||Türk Telekom
+Ukraine||Kyivstar||Vodafone||Lifecell||Intertelecom||TriMob||PEOPLEnet
+United Kingdom||O2||EE||Vodafone||Three
+Algeria||Mobilis||Djezzy||Ooredoo
+Angola||Unitel||Movicel
+Bahrain||Batelco||Zain||stc
+Benin||MTN||Moov||Glo||Libercom||BBcom
+Botswana||Mascom||Orange||btc
+Burkina Faso||Orange||Onatel||Telecel Faso
+Burundi||Econet Leo||Lumitel||ONAMOB||Smart Mobile
+Cape Verde||CV Móvel||T-MAIS
+Cameroon||MTN||Orange||Nexttel||Camtel||YooMee
+Central African Republic||telecel||Orange||azur||Moov Africa
+Chad||Moov||Airtel
+Comoros||HURI||Telma
+Congo||MTN||Airtel||Azur
+Ivory Coast||Orange||MTN||Moov||Koz||GreenN||Warid||Mobile Cafe||YooMee
+Democratic Republic of Congo||Vodacom||Orange||Africell||Airtel||Supercell||SemaTel||U-Com||Smile
+Djibouti||Evatis
+Egypt||Vodafone||Orange||Etisalat||Telecom Egypt
+Equatorial Guinea||Orange||Muni||Gecomsa
+Eritrea||Eritel
+Ethiopia||Ethiotelecom
+Gabon||Airtel||Moov Africa Gabon Telecom
+Gambia||Africell||Comium||Gamcel||Qcell
+Ghana||MTN||Vodafone||AirtelTigo||Glo
+Guinea||Orange||MTN||Cellcom Guinée||Intercel||Sotelgui
+Guinea-Bissau||MTN||Orange||Guinetel
+Iran||Hamrahe Aval||Irancell||RighTel
+Iraq||Zain||Asia Cell||Korek||Omnnea||Itisaluna
+Israel||Cellcom||Partner||Pelephone||Hot Mobile||Golan Telecom||XFONE||Rami Levy||HomeCellular||019 Mobile||Cellact
+Jordan||Zain Jordan||Orange Jordan||Umniah
+Kenya||Safaricom||Airtel||Telkom Kenya||Jamii Telecommunications
+Kuwait||Zain||Ooredoo||stc
+Lebanon||touch||Alfa
+Lesotho||Vodacom||Econet Telecom Lesotho
+Liberia||Lonestar Cell MTN||Orange||Novafone||LTC Mobile
+Libya||Almadar Aljadid||Libyana
+Madagascar||Airtel||Telma Mobile||Orange||Blueline
+Malawi||Airtel||TNM||Access||G-Mobile||Lacell||G-Expresso
+Mali||Orange||Moov Africa Malitel||Planor
+Mauritania||Moov Mauritel||Chinguitel||MATTEL
+Mauritius||Mauritius Telecom||Emtel||CHiLi
+Morocco||Maroc Telecom||Orange||inwi
+Mozambique||Tmcel||Vodacom||Movitel
+Namibia||MTC||TN Mobile
+Niger||Airtel||Niger Telecoms||Zamani Telecom||Moov Africa Niger
+Nigeria||MTN||Airtel||Glo Mobile||9mobile
+Oman||Omantel||Ooredoo
+Palestine||Jawwal||Ooredoo
+Qatar||Ooredoo||Vodafone
+Reunion||SFR||Orange||FREE
+Rwanda||MTN||Airtel||Rwandatel
+Sao Tome and Principe||CST
+Saudi Arabia||stc||Mobily||Zain||Virgin mobile KSA||Lebara Mobile KSA
+Senegal||Orange||Free||Expresso||Hayo Telecom
+Seychelles||Airtel||Cable & Wireless
+Sierra Leone||Africell||Orange||Sierratel||Qcell||Comium||GreenN
+Somalia||Hormuud||Telcom Somalia||Telesom Mobile||Nationlink||Somtel||Golis Telecom Somalia||Somafone||Netco||SomNet
+South Africa||Vodacom||MTN||Cell C||Telkom||Rain
+Sudan||Zain||MTN||Sudani||Canar
+Syria||MTN||Syriatel
+Tanzania||Vodacom||Airtel||Tigo||Halotel||Zantel
+Togo||Togocel||Moov Africa Togo
+Tunisia||Ooredoo||Tunisie Telecom||Orange
+Turkey||Turkcell||Vodafone||Türk Telekom
+Uganda||MTN||Airtel||Africell||Warid||UT Mobile||Essar||Smart Telecom
+United Arab Emirates||Etisalat||du
+Yemen||Yemen Mobile||Sabafon||YOU||Y Telecom
+Zambia||MTN||Airtel||Zamtel
+Zimbabwe||Econet||telecel||NetOne

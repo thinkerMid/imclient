@@ -1,0 +1,7 @@
+/vendor
+/.idea
+/build
+/server/cluster/log
+/cache
+/log
+/server/cluster/cache

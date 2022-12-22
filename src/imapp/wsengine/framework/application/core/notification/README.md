@@ -1,0 +1,7 @@
+该目录下都是INotification的实现
+
+INotification并不是一个通知，是一种类似于接收某种消息的实现
+
+1.Notification自身无法实现发送消息接收消息的一个闭环逻辑处理，如果要实现改用Action
+2.Notification无法有效储存从任何地方获取到的数据保存到成员变量中，因为每当被执行Receive的时候都是一个新的Notification实例
+3.Notification有一个约定是，只要消息被自身处理了就要返回constant.AbortedError的错误(视情况而定，存在一些Notification只对消息内容做出回复ACK的逻辑)，以免Processor遍历了许多Notification传递消息上下文
